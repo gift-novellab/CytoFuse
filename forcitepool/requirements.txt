@@ -1,0 +1,2 @@
+-r ../requirements.txt
+seaborn>=0.12

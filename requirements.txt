@@ -1,0 +1,12 @@
+anndata
+harmonypy
+leidenalg
+matplotlib
+numpy
+pandas
+python-igraph
+scanpy
+scikit-learn
+scipy
+seaborn>=0.12
+umap-learn
